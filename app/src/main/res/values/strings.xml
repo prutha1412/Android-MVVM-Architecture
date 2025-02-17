@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name ="heading">MVVM Architecture</string>
+    <string name="email_hint">Enter Your Email ID</string>
+    <string name="password_hint">Enter Your Password</string>
+    <string name="button_text">Login</string>
+</resources>
